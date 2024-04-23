@@ -1,0 +1,18 @@
+/* ***SECTION 3 */
+
+.imgvideo> img{
+    width: 38vw;
+}
+.downloadbar{
+    height: 30px;
+    width: 50px;
+    background-color: black;
+    border: 1px solid grey;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.downloadbar img{
+    height: 25px;
+}
